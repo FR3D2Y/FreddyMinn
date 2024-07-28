@@ -17,9 +17,9 @@ canvas
 
 .htmlScreen iframe
 {
-    width: 1024px;
+    cursor: pointer;
+    width: 1138px;
     height: 670px;
     border: none;
-    border-radius: 20px;
     background: #000000;
 }
